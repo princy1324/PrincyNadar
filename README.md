@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Princy Nadar</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharath-sasidharan" alt="Princy-Nadar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=princy1324" alt="Princy-Nadar" /> </p>
 <p align="center">
 - 🔭 I’m currently working on **dataseers**
 <p align="center">
-- 💬 Ask me about **React, Node, MySql, Html5, CSS3, JavaScript**
+- 💬 Ask me about **React, Node, MySql, Html5, JavaScript, Git**
 <p align="center">
 - 📫 How to reach me **princy132nadar@gmail.com**
 </p>
